@@ -31,6 +31,6 @@ The emails in the pictures below do not belong to me and are just used for demo 
 <img src= "https://user-images.githubusercontent.com/86017484/210181728-74fa138a-19a8-47cd-9b61-2095667b36c2.png" height="400" width="800" />
 
 ### All Verified Reviews:
-<img src= "https://user-images.githubusercontent.com/86017484/210181780-5ac4ad55-4c62-46d1-9d4e-8e9307405a81.png" height="400" width="800 />
+<img src= "https://user-images.githubusercontent.com/86017484/210181780-5ac4ad55-4c62-46d1-9d4e-8e9307405a81.png" height="400" width="800" />
 
 </div>
